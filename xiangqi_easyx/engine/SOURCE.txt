@@ -1,0 +1,14 @@
+Pikafish 2026-01-02
+
+Official project:
+https://github.com/official-pikafish/Pikafish
+
+Exact release and corresponding source code:
+https://github.com/official-pikafish/Pikafish/releases/tag/Pikafish-2026-01-02
+https://github.com/official-pikafish/Pikafish/tree/Pikafish-2026-01-02
+
+Bundled Windows binary:
+Windows/pikafish-sse41-popcnt.exe, renamed to pikafish.exe.
+
+Pikafish is distributed under GNU GPL v3. See Copying.txt.
+The NNUE file has additional terms. See NNUE-License.md.
